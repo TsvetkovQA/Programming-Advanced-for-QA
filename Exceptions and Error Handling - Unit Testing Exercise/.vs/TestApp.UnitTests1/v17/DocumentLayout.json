@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iliq_\\Desktop\\Exceptions and Error Handling - Unit Testing Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF48232B-2D17-4AB5-BB93-AD22C48B063C}|TestApp.UnitTests.csproj|c:\\users\\iliq_\\desktop\\exceptions and error handling - unit testing exercise\\testapp.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF48232B-2D17-4AB5-BB93-AD22C48B063C}|TestApp.UnitTests.csproj|solutionrelative:testapp.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestApp.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\iliq_\\Desktop\\Exceptions and Error Handling - Unit Testing Exercise\\TestApp.UnitTests.csproj",
+              "RelativeDocumentMoniker": "TestApp.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\iliq_\\Desktop\\Exceptions and Error Handling - Unit Testing Exercise\\TestApp.UnitTests.csproj",
+              "RelativeToolTip": "TestApp.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T12:26:39.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
